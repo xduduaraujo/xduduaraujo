@@ -7,7 +7,6 @@ My name is Luiz Eduardo, I'm a Brazilian Developer and I will show you a little 
 - 🔹 Name: Luiz Eduardo
 - 🔸 Age: 20
 - 🔹 Living in: São Paulo, Brazil
-- 🔸 Seniority: Intern
 - 🔹 Curiosity: I really like to play games.
 
 ### Social 🤵
