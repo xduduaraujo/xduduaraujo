@@ -6,7 +6,7 @@ My name is Luiz Eduardo, I'm a Brazilian Developer and I will show you a little 
 
 I'm web developer passionate about code, logic and people. I'm highly attentive with details and I love teamwork, particularly the best part of program applications for me are learn new tecnologies and help or teach person, and of course exploring new things.
 
-### Who am i? 🧠
+### Who I am 🧠
 
 🔹 Name: Luiz Eduardo
 🔸 Age: 20
