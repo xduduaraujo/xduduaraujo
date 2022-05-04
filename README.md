@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-My name is Luiz Eduardo, I'm a Brazilian Developer and I will show you a little about myself.
+My name is Luiz Eduardo, I'm a Brazilian Developer and I'll show you a little about myself.
 
 ### About me ❓
 
-I'm web developer passionate about code, logic and people. I'm highly attentive with details and I love teamwork, particularly the best part of program applications for me are learn new tecnologies and help or teach person, and of course exploring new things.
+So, I'm a Software Developer, passionate about code, logic and knowledge. The greatest pleasure I've today is to learn something new and pass that knowledge on also I've a very good didactic to achieve that.
 
 ### Who I am 🧠
 
 🔹 Name: Luiz Eduardo
 🔸 Age: 20
 🔹 Living in: São Paulo, Brazil
-🔸 Curiosity: I really like to play games.
+🔸 Curiosity: Since I was 5 years old I like to play games, even I tried to be a proplayer sadly I don't have enough for that, then turned it into my hobby 😁
 
 ### Social 🤵
 
@@ -22,7 +22,7 @@ I'm web developer passionate about code, logic and people. I'm highly attentive 
     <a target='_blank' href="https://instagram.com/xdudaraujo">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://linkedin.com/in/xduduaraujo">
+    <a target='_blank' href="https://www.linkedin.com/in/luiz-araujo1105/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee">
     </a>
 </div>
