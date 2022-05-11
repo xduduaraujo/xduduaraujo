@@ -9,7 +9,7 @@ So, I'm a Software Developer, passionate about code, logic and knowledge. The gr
 ### Who I am 🧠  
 
 🔹 Name: Luiz Eduardo  
-🔸 Age: 20  
+🔸 Age: 21  
 🔹 Living in: São Paulo, Brazil  
 🔸 Curiosity: Since I was 5 years old I like to play games, even I tried to be a proplayer sadly I don't have enough for that, then turned it into my hobby 😁  
   
